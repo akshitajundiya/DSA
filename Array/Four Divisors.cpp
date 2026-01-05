@@ -1,7 +1,7 @@
 const int N=316;
 bitset<N+1> isPrime=0;
 vector<int> prime;
-int Div4[100001];azsdxfg
+int Div4[100001];
 
 class Solution {
 public:
