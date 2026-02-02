@@ -1,4 +1,4 @@
-const int N=316;
+const int N=316;xcvgbhnjk
 bitset<N+1> isPrime=0;
 vector<int> prime;
 int Div4[100001];
