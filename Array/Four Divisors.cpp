@@ -1,6 +1,6 @@
 const int N=316;xcvgbhnjk
 bitset<N+1> isPrime=0;
-vector<int> prime;
+vector<int> prime;sxdcfghj
 int Div4[100001];
 
 class Solution {
